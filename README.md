@@ -1,1 +1,1 @@
-# Fitness-club---database-project
+# Fitness club - database project
