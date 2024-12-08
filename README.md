@@ -1,11 +1,24 @@
-# Fitness club - database project
-The aim of the project was to design and implement a database for use in fitness club management. The programmes used to complete the assignment were: UMLet, Oracle Data Modeler and Oracle SQL Developer, as well as the SQL language. 
-The project was carried out in a group of two students. It was required that the project be carried out entirely in Polish.
+# 🏋️‍♂️ Fitness Club - Database Project
+Projekt realizowany w ramach przedmiotu Bazy danych na kierunku Inżynieria i Analiza Danych. Celem projektu było zaprojektowanie i zaimplementowanie bazy danych wspomagającej zarządzanie klubem fitness.
 
-## Diagrams
-### Diagram UML
-![image](https://github.com/gosiaradomska/Fitness-club-support-system/assets/163201690/eb7505a8-e62c-429b-b98c-bc59f656d4eb)
-### Entity relationship diagram
-![image](https://github.com/gosiaradomska/Fitness-club-support-system/assets/163201690/9736efdd-e654-4e99-8ff4-40442cdc6514)
-### Class diagram
-![image](https://github.com/gosiaradomska/Fitness-club-support-system/assets/163201690/4734ea0c-26b9-4a0a-aaef-59aaf2b597a4)
+## 📋 Opis projektu
+Projekt obejmował:
+* Analizę wymagań użytkowników i scenariuszy użycia.
+* Modelowanie konceptualne za pomocą diagramów UML.
+* Przejście od diagramu ERD do modelu relacyjnego z zastosowaniem normalizacji.
+* Implementację bazy danych w języku SQL, obejmującą tworzenie tabel, relacji i kwerend.
+
+### System wspiera:
+* Zarządzanie klientami i instruktorami.
+* Tworzenie harmonogramów zajęć i rezerwacji.
+* Obsługę zamówień na karnety i płatności.
+
+### Kluczowe funkcjonalności
+* Diagram UML: Graficzne odwzorowanie przypadków użycia i aktorów systemu 🗂️.
+* Diagram ERD: Relacje między encjami, takimi jak klienci, instruktorzy, grupy zajęciowe i rezerwacje 🌐.
+* Normalizacja tabel: Zapewnienie spójności i minimalizacji redundancji w danych 💾.
+* Kwerendy SQL: Analizy takie jak liczba klientów, harmonogramy sal i zamówienia na karnety 🔎.
+
+## 🛠️ Technologie
+* Narzędzia: UMLet, Oracle Data Modeler, Oracle SQL Developer.
+* Język programowania: SQL.
